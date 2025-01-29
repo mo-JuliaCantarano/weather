@@ -6,4 +6,4 @@ Cloudy
 
 ## tomorrow
 
-Sunny
+Sunny with showers
