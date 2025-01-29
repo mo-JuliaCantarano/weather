@@ -1,1 +1,9 @@
-# forecast code document
+# forecast
+
+## today
+
+Cloudy
+
+## tomorrow
+
+Sunny
