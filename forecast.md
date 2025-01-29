@@ -1,9 +1,8 @@
-# forecast
+# forecast 
 
-## today
-
+##Today
 Cloudy
 
-## tomorrow
+##Tomorrow
 
-Sunny with showers
+Cloudy
